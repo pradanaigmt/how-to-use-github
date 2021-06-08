@@ -4,6 +4,7 @@ TAHAPAN BELAJAR GITHUB
   ` Perbedaan GIT dan GITHUB
   ` Kelebihan GITHUB
     ^ POV seorang non-programmer
+    ^ POV seorang programmer
 - Alasan mengapa perlu menggunakan GITHUB
 - Sejarah Dibuat dan Pembuat
     ^ Hubungan Linux dan GITHUB

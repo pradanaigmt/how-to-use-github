@@ -3,7 +3,9 @@ TAHAPAN BELAJAR GITHUB
 - Pengertian apa itu GITHUB
   ` Perbedaan GIT dan GITHUB
   ` Kelebihan GITHUB
-- Alasan mengapa perlu menggunakan GITHUB
+    ^ POV mahasiswa TIP
+    ^ POV seorang programmer
 - Sejarah Dibuat dan Pembuat
+    ^ Hubungan Linux dan GITHUB
 - Penjelasan Version Control System (VCS)
 - Jenis-jenis VCS
